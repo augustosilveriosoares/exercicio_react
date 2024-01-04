@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 920px;
+  width: 100%;
+}
+
+:root {
+  --primary: rgb(76, 0, 41);
+  --secondary: rgb(176, 125, 230);
+}
