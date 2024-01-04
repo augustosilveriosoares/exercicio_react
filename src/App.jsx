@@ -1,6 +1,4 @@
-
-import Repo from './components/repo';
-import Perfil from './components/perfil';
+import Formulario from './components/formulario';
 import './global.css';
 
 
@@ -8,8 +6,7 @@ function App() {
 
   return (
     <>
-      <Perfil endereco="https://github.com/augustosilveriosoares.png" nome="Augusto" />
-      <Repo />
+      <Formulario />
     </>
   )
 }
